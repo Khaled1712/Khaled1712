@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Khaled
+- 👀 I’m interested in C++/Rust/Typescript
+- 🌱 I’m currently learning Rust/Typescript
